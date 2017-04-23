@@ -20,6 +20,12 @@ PREWords: PapeRkEyWords
 
 ## 动词
 
+**促进：**
+
+- promote
+
+- facilitate
+
 **出现：**
 
 - emerge
