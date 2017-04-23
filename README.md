@@ -260,6 +260,8 @@ PREWords: PapeRkEyWords
 
 - What's more
 
+- Additionally
+
 **处于...风险之中：**
 
 - at the risk of
