@@ -1,12 +1,10 @@
-# PREWords
-
-PREWords: PapeRkEyWords
-
 # README
 
 这个repo记录了我在撰写英文论文时，所收集的常用的词汇。
 
-# 词汇
+# PREWords
+
+PREWords: PapeRkEyWords
 
 ## 位置
 
@@ -78,6 +76,12 @@ PREWords: PapeRkEyWords
 
 - showcase
 
+**了解：**
+
+- gain insight about
+
+- understand
+
 ## 名词：
 
 **表述自己的工作：**
@@ -89,6 +93,14 @@ PREWords: PapeRkEyWords
 - attempt
 
 - contribution
+
+**方法、途径：**
+
+- approach
+
+- way
+
+- method
 
 **底层：**
 
@@ -113,6 +125,10 @@ PREWords: PapeRkEyWords
 - paradigm
 
 - module
+
+**趋势：**
+
+- trend
 
 ## 形容词：
 
@@ -155,6 +171,24 @@ PREWords: PapeRkEyWords
 - heterogeneous
 
 - various
+
+**整体的：**
+
+- integral
+
+**坚定的、完全的：**
+
+- firmly
+
+- fully
+
+**连续的：**
+
+- seamless
+
+**可靠的：**
+
+- reliable
 
 ## 转接词/承接词
 
@@ -224,7 +258,11 @@ PREWords: PapeRkEyWords
 
 ## 实验
 
-**性能方面** 
+**性能方面：** 
+
+- capability
+
+- inability
 
 - penalties
 
@@ -232,4 +270,8 @@ PREWords: PapeRkEyWords
 
 - increase/decrease
 
-- 
+- consume xxx percent-less
+
+**实验结果：**
+
+- experimental results
