@@ -218,6 +218,10 @@ PREWords: PapeRkEyWords
 
 - deterministic
 
+**上述的：**
+
+- aforementioned
+
 ## 转接词/承接词
 
 **第一点、第二点...：**
