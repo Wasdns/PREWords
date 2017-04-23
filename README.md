@@ -82,6 +82,12 @@ PREWords: PapeRkEyWords
 
 - understand
 
+**决定：**
+
+- determined
+
+- decide
+
 ## 名词：
 
 **表述自己的工作：**
@@ -129,6 +135,10 @@ PREWords: PapeRkEyWords
 **趋势：**
 
 - trend
+
+**业界：**
+
+- manufacturing
 
 ## 形容词：
 
@@ -189,6 +199,18 @@ PREWords: PapeRkEyWords
 **可靠的：**
 
 - reliable
+
+**兼容的：**
+
+- adaptively
+
+**聪明的：**
+
+- intelligent
+
+**确定的：**
+
+- deterministic
 
 ## 转接词/承接词
 
