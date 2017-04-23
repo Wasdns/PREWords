@@ -278,6 +278,12 @@ PREWords: PapeRkEyWords
 
 - constitute
 
+**简而言之：**
+
+- in a word
+
+- in a nutshell
+
 ## 实验
 
 **性能方面：** 
