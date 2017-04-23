@@ -226,6 +226,10 @@ PREWords: PapeRkEyWords
 
 - aforementioned
 
+**不可避免的：**
+
+- inevitably
+
 ## 转接词/承接词
 
 **第一点、第二点...：**
