@@ -94,6 +94,10 @@ PREWords: PapeRkEyWords
 
 - decide
 
+**卸载：**
+
+- offload
+
 ## 名词：
 
 **表述自己的工作：**
