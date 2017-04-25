@@ -156,6 +156,10 @@ PREWords: PapeRkEyWords
 
 - trend
 
+**不一致：**
+
+- inconformity
+
 **业界：**
 
 - manufacturing
@@ -240,6 +244,10 @@ PREWords: PapeRkEyWords
 
 - inevitably
 
+**微妙的、巧妙的：**
+
+- subtle
+
 ## 转接词/承接词
 
 **第一点、第二点...：**
@@ -315,6 +323,10 @@ PREWords: PapeRkEyWords
 - in a nutshell
 
 ## 实验
+
+**复现：**
+
+- reproduce
 
 **性能方面：** 
 
