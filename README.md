@@ -168,6 +168,12 @@ PREWords: PapeRkEyWords
 
 - manufacturing
 
+**情况：**
+
+- status
+
+- scenario
+
 ## 形容词：
 
 **未利用的：**
@@ -256,6 +262,10 @@ PREWords: PapeRkEyWords
 
 - effectiveness
 
+**遗留下来又难以更新的：**
+
+- legacy
+
 ## 转接词/承接词
 
 **第一点、第二点...：**
@@ -329,6 +339,14 @@ PREWords: PapeRkEyWords
 - in a word
 
 - in a nutshell
+
+**从来：**
+
+- ever
+
+**与...对比：**
+
+- in constrast with
 
 ## 实验
 
