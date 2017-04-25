@@ -92,6 +92,8 @@ PREWords: PapeRkEyWords
 
 - showcase
 
+- illustrate
+
 **了解：**
 
 - gain insight about
@@ -131,6 +133,12 @@ PREWords: PapeRkEyWords
 - way
 
 - method
+
+**技术：**
+
+- mechanics
+
+- technology
 
 **底层：**
 
@@ -173,6 +181,18 @@ PREWords: PapeRkEyWords
 - status
 
 - scenario
+
+**改变：**
+
+- alteration
+
+- change
+
+- transform
+
+**原因：**
+
+- motivation
 
 ## 形容词：
 
