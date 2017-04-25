@@ -76,7 +76,11 @@ PREWords: PapeRkEyWords
 
 **提出：**
 
+- propose
+
 - in the proposal of 
+
+- demonstrate
 
 **复现：**
 
@@ -196,6 +200,12 @@ PREWords: PapeRkEyWords
 
 ## 形容词：
 
+**复杂的/规模大的：**
+
+- complex
+
+- massive
+
 **未利用的：**
 
 - untapped
@@ -286,6 +296,10 @@ PREWords: PapeRkEyWords
 
 - legacy
 
+**可存取的：**
+
+- accessible
+
 ## 转接词/承接词
 
 **第一点、第二点...：**
@@ -352,7 +366,7 @@ PREWords: PapeRkEyWords
 
 - be composed of 
 
-- constitute
+- constitute/constituent
 
 **简而言之：**
 
