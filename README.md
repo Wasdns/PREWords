@@ -78,6 +78,10 @@ PREWords: PapeRkEyWords
 
 - in the proposal of 
 
+**复现：**
+
+- reproduce
+
 **展示、说明：**
 
 - present
@@ -248,6 +252,10 @@ PREWords: PapeRkEyWords
 
 - subtle
 
+**有效性：**
+
+- effectiveness
+
 ## 转接词/承接词
 
 **第一点、第二点...：**
@@ -323,10 +331,6 @@ PREWords: PapeRkEyWords
 - in a nutshell
 
 ## 实验
-
-**复现：**
-
-- reproduce
 
 **性能方面：** 
 
