@@ -20,6 +20,12 @@ PREWords: PapeRkEyWords
 
 ## 动词
 
+**限制：**
+
+- restricts
+
+- limit
+
 **促进：**
 
 - promote
