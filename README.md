@@ -52,9 +52,11 @@ PREWords: PapeRkEyWords
 
 - fullfill
 
-**突出、划重点：**
+**突出、划重点/重视：**
 
 - highlight
+
+- take into account
 
 **加速：**
 
@@ -83,6 +85,10 @@ PREWords: PapeRkEyWords
 - in the proposal of 
 
 - demonstrate
+
+**指出：**
+
+- specify
 
 **复现：**
 
@@ -123,6 +129,10 @@ PREWords: PapeRkEyWords
 **估计：**
 
 - estimate
+
+**超过某一限度：**
+
+- transcend
 
 ## 名词：
 
@@ -184,6 +194,8 @@ PREWords: PapeRkEyWords
 
 - inconformity
 
+- inconsistency
+
 **业界：**
 
 - manufacturing
@@ -218,7 +230,19 @@ PREWords: PapeRkEyWords
 
 - component
 
+**正确性：**
+
+- correctness
+
 ## 形容词：
+
+**一致的：**
+
+- consistent
+
+**不一致的：**
+
+- inconsistent
 
 **复杂的/规模大的：**
 
