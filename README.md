@@ -120,6 +120,10 @@ PREWords: PapeRkEyWords
 
 - take a step forward into
 
+**估计：**
+
+- estimate
+
 ## 名词：
 
 **表述自己的工作：**
@@ -205,6 +209,14 @@ PREWords: PapeRkEyWords
 **评估：**
 
 - estimation
+
+**组成部分：**
+
+- ingredient
+
+- part
+
+- component
 
 ## 形容词：
 
@@ -307,6 +319,10 @@ PREWords: PapeRkEyWords
 **可存取的：**
 
 - accessible
+
+**不透明的：**
+
+- opaque
 
 ## 转接词/承接词
 
