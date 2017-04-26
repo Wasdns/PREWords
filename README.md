@@ -132,6 +132,8 @@ PREWords: PapeRkEyWords
 
 - contribution
 
+- scheme
+
 **方法、途径：**
 
 - approach
