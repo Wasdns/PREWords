@@ -286,6 +286,12 @@ PREWords: PapeRkEyWords
 
 - viable (solution)
 
+**可用的、实际的：**
+
+- practical
+
+- feasible
+
 **高效的：**
 
 - effectively
@@ -295,6 +301,8 @@ PREWords: PapeRkEyWords
 - specific
 
 - assigned
+
+- arbitrary
 
 **极好的：**
 
@@ -379,10 +387,6 @@ PREWords: PapeRkEyWords
 **准确的：**
 
 - precise (need) <=> specific (target)
-
-**可用的、实际的：**
-
-- practical
 
 ## 转接词/承接词
 
