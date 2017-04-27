@@ -32,6 +32,16 @@ PREWords: PapeRkEyWords
 
 - facilitate
 
+- leverage
+
+**加速：**
+
+- accelerate
+
+- speed up
+
+- spurred
+
 **出现：**
 
 - emerge
@@ -52,19 +62,19 @@ PREWords: PapeRkEyWords
 
 - fullfill
 
+**操作：**
+
+- operate
+
+- manipulate
+
+- handle
+
 **突出、划重点/重视：**
 
 - highlight
 
 - take into account
-
-**加速：**
-
-- accelerate
-
-- speed up
-
-- spurred
 
 **利用：**
 
@@ -108,7 +118,7 @@ PREWords: PapeRkEyWords
 
 **了解：**
 
-- gain insight about
+- gain insight about <=> internal state
 
 - understand
 
@@ -234,7 +244,15 @@ PREWords: PapeRkEyWords
 
 - correctness
 
+**透明度：**
+
+- visibility
+
 ## 形容词：
+
+**前所未有的：**
+
+- unprecedented
 
 **普遍的：**
 
