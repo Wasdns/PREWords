@@ -236,6 +236,12 @@ PREWords: PapeRkEyWords
 
 ## 形容词：
 
+**普遍的：**
+
+- ubiquitous
+
+- common
+
 **一致的：**
 
 - consistent
@@ -347,6 +353,18 @@ PREWords: PapeRkEyWords
 **不透明的：**
 
 - opaque
+
+**关键的：**
+
+- essential
+
+**准确的：**
+
+- precise (need) <=> specific (target)
+
+**可用的、实际的：**
+
+- practical
 
 ## 转接词/承接词
 
