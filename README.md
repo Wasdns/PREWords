@@ -158,6 +158,14 @@ PREWords: PapeRkEyWords
 
 - scheme
 
+**使命：**
+
+- mission
+
+**紧迫：**
+
+- urgency
+
 **方法、途径：**
 
 - approach
@@ -249,6 +257,10 @@ PREWords: PapeRkEyWords
 - visibility
 
 ## 形容词：
+
+**深思熟虑的**
+
+- deliberate
 
 **前所未有的：**
 
