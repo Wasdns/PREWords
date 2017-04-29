@@ -20,6 +20,12 @@ PREWords: PapeRkEyWords
 
 ## 动词
 
+**期望：**
+
+- except
+
+- anticipate
+
 **规避：**
 
 - circumvent
@@ -206,6 +212,14 @@ PREWords: PapeRkEyWords
 
 - pioneering (work)
 
+**突破性的工作：**
+
+- breakthrough work
+
+**要点：**
+
+- take-home message
+
 **结果/后果：**
 
 - aftermath
@@ -269,6 +283,10 @@ PREWords: PapeRkEyWords
 - inconformity
 
 - inconsistency
+
+**一致：**
+
+- conformance
 
 **业界：**
 
@@ -522,6 +540,10 @@ PREWords: PapeRkEyWords
 
 - explicitly
 
+**特别的：**
+
+- extremely
+
 ## 转接词/承接词
 
 **第一点、第二点...：**
@@ -607,6 +629,10 @@ PREWords: PapeRkEyWords
 - in a word
 
 - in a nutshell
+
+**具体来说：**
+
+- Concretely, ...
 
 **从来：**
 
