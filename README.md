@@ -20,6 +20,10 @@ PREWords: PapeRkEyWords
 
 ## 动词
 
+**预见：**
+
+- foresee
+
 **限制：**
 
 - restricts
@@ -69,6 +73,8 @@ PREWords: PapeRkEyWords
 - manipulate
 
 - handle
+
+- tackle
 
 **突出、划重点/重视：**
 
@@ -248,6 +254,10 @@ PREWords: PapeRkEyWords
 
 - component
 
+**可行性：**
+
+- feasibility
+
 **正确性：**
 
 - correctness
@@ -416,6 +426,10 @@ PREWords: PapeRkEyWords
 
 - Nevertheless
 
+**由于：**
+
+- be fuelled by
+
 **除此之外(还有)：**
 
 - Besides
@@ -448,6 +462,10 @@ PREWords: PapeRkEyWords
 
 - as a compromise
 
+**遵守(含有满足的意思)：**
+
+- conforming to (our requirments)
+
 **针对、致力于：**
 
 - address
@@ -467,6 +485,8 @@ PREWords: PapeRkEyWords
 - be composed of 
 
 - constitute/constituent
+
+- comprise
 
 **简而言之：**
 
