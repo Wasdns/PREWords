@@ -20,6 +20,10 @@ PREWords: PapeRkEyWords
 
 ## 动词
 
+**规避：**
+
+- circumvent
+
 **调查：**
 
 - investigate
@@ -43,6 +47,8 @@ PREWords: PapeRkEyWords
 - facilitate
 
 - leverage
+
+- motivate(d by)
 
 **加速：**
 
@@ -170,6 +176,18 @@ PREWords: PapeRkEyWords
 
 - involve
 
+**使...自动化：**
+
+- automate
+
+**委托：**
+
+- delegate
+
+**违反：**
+
+- violate
+
 ## 名词：
 
 **表述自己的工作：**
@@ -183,6 +201,16 @@ PREWords: PapeRkEyWords
 - contribution
 
 - scheme
+
+**之前的工作、先驱：**
+
+- pioneering (work)
+
+**结果/后果：**
+
+- aftermath
+
+- result
 
 **使命：**
 
@@ -234,6 +262,8 @@ PREWords: PapeRkEyWords
 
 - trend
 
+- wave
+
 **不一致：**
 
 - inconformity
@@ -262,6 +292,8 @@ PREWords: PapeRkEyWords
 
 - motivation
 
+- rationale
+
 **评估：**
 
 - estimation
@@ -274,9 +306,17 @@ PREWords: PapeRkEyWords
 
 - component
 
+**监管：**
+
+- supervision
+
 **可行性：**
 
 - feasibility
+
+- practicality
+
+- viability
 
 **正确性：**
 
@@ -303,6 +343,14 @@ PREWords: PapeRkEyWords
 **深思熟虑的**
 
 - deliberate
+
+**谨慎的、保守的：**
+
+- conservative
+
+**激进的：**
+
+- aggressive
 
 **前所未有的：**
 
@@ -365,6 +413,10 @@ PREWords: PapeRkEyWords
 - assigned
 
 - arbitrary
+
+**务实的：**
+
+- pragmatic
 
 **极好的：**
 
@@ -456,6 +508,20 @@ PREWords: PapeRkEyWords
 
 - sufficient
 
+**创新的：**
+
+- innovative
+
+## 副词
+
+**根本地：**
+
+- radically
+
+**明确地：**
+
+- explicitly
+
 ## 转接词/承接词
 
 **第一点、第二点...：**
@@ -471,6 +537,8 @@ PREWords: PapeRkEyWords
 - However
 
 - Nevertheless
+
+- whereas
 
 **由于：**
 
