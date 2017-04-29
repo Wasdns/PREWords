@@ -20,6 +20,12 @@ PREWords: PapeRkEyWords
 
 ## 动词
 
+**调查：**
+
+- investigate
+
+- explore
+
 **预见：**
 
 - foresee
@@ -134,6 +140,12 @@ PREWords: PapeRkEyWords
 
 - decide
 
+**批准：**
+
+- ratify
+
+- approve
+
 **卸载：**
 
 - offload
@@ -146,9 +158,17 @@ PREWords: PapeRkEyWords
 
 - estimate
 
+**演绎、推断：**
+
+- deduce
+
 **超过某一限度：**
 
 - transcend
+
+**涉及、参与：**
+
+- involve
 
 ## 名词：
 
@@ -268,6 +288,18 @@ PREWords: PapeRkEyWords
 
 ## 形容词：
 
+**形容数目很多：**
+
+- numerous
+
+- a lot of/lots of
+
+- a/the number of 
+
+**理论的/从理论上说：**
+
+- theoretical
+
 **深思熟虑的**
 
 - deliberate
@@ -286,6 +318,10 @@ PREWords: PapeRkEyWords
 
 - consistent
 
+**统一的：**
+
+- unified
+
 **不一致的：**
 
 - inconsistent
@@ -303,6 +339,10 @@ PREWords: PapeRkEyWords
 **适合的：**
 
 - suitable (for)
+
+**不适合：**
+
+- A be incapable of B
 
 **可行的：**
 
@@ -370,10 +410,6 @@ PREWords: PapeRkEyWords
 
 - intelligent
 
-**确定的：**
-
-- deterministic
-
 **上述的：**
 
 - aforementioned
@@ -406,9 +442,19 @@ PREWords: PapeRkEyWords
 
 - essential
 
+- indispensable(不可或缺的)
+
 **准确的：**
 
 - precise (need) <=> specific (target)
+
+**确定的：**
+
+- deterministic
+
+**充足的：**
+
+- sufficient
 
 ## 转接词/承接词
 
@@ -521,3 +567,5 @@ PREWords: PapeRkEyWords
 **实验结果：**
 
 - experimental results
+
+- analytical results
