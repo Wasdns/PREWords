@@ -20,6 +20,12 @@ PREWords: PapeRkEyWords
 
 ## 动词
 
+**适配：**
+
+- accommodate
+
+- adapt to
+
 **期望：**
 
 - except
@@ -344,6 +350,10 @@ PREWords: PapeRkEyWords
 
 - visibility
 
+**更概况性的问题：**
+
+- generality
+
 ## 形容词：
 
 **形容数目很多：**
@@ -514,6 +524,10 @@ PREWords: PapeRkEyWords
 
 - indispensable(不可或缺的)
 
+**重要的：**
+
+- prominent
+
 **准确的：**
 
 - precise (need) <=> specific (target)
@@ -530,6 +544,18 @@ PREWords: PapeRkEyWords
 
 - innovative
 
+**后备的：**
+
+- backup
+
+**过度的：**
+
+- excessive
+
+**足够的：**
+
+- adequate
+
 ## 副词
 
 **根本地：**
@@ -540,9 +566,13 @@ PREWords: PapeRkEyWords
 
 - explicitly
 
-**特别的：**
+**特别地：**
 
 - extremely
+
+**松散地：**
+
+- loosely
 
 ## 转接词/承接词
 
@@ -633,6 +663,10 @@ PREWords: PapeRkEyWords
 **具体来说：**
 
 - Concretely, ...
+
+**此后：**
+
+- Thereafter
 
 **从来：**
 
