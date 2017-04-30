@@ -4,7 +4,7 @@
 
 # PREWords
 
-PREWords: PapeRkEyWords
+PREWords: PapeRkEyWords https://wasdns.github.io/PREWords/
 
 ## 位置
 
