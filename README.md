@@ -4,7 +4,8 @@
 
 # PREWords
 
-PREWords: PapeRkEyWords https://wasdns.github.io/PREWords/
+PREWords: PapeRkEyWords 
+Website: https://wasdns.github.io/PREWords/
 
 ## 位置
 
@@ -19,6 +20,14 @@ PREWords: PapeRkEyWords https://wasdns.github.io/PREWords/
 - among
 
 ## 动词
+
+**填充(用于流表)：**
+
+- populate (flow tables)
+
+**(数据报)穿过(流表)：**
+
+- traverse (the match/action table)
 
 **适配：**
 
@@ -41,6 +50,8 @@ PREWords: PapeRkEyWords https://wasdns.github.io/PREWords/
 - investigate
 
 - explore
+
+- probe
 
 **预见：**
 
@@ -200,7 +211,15 @@ PREWords: PapeRkEyWords https://wasdns.github.io/PREWords/
 
 - violate
 
+**结束：**
+
+- conclude
+
 ## 名词：
+
+**阈值、门槛：**
+
+- threshold
 
 **表述自己的工作：**
 
@@ -247,6 +266,10 @@ PREWords: PapeRkEyWords https://wasdns.github.io/PREWords/
 - way
 
 - method
+
+**方案、体系：**
+
+- scheme
 
 **技术：**
 
@@ -353,6 +376,10 @@ PREWords: PapeRkEyWords https://wasdns.github.io/PREWords/
 **更概况性的问题：**
 
 - generality
+
+**利用率：**
+
+- utilization rate
 
 ## 形容词：
 
@@ -624,6 +651,10 @@ PREWords: PapeRkEyWords https://wasdns.github.io/PREWords/
 
 - rather than
 
+**否则：**
+
+- otherwise
+
 **作为...妥协：**
 
 - as a compromise
@@ -675,6 +706,14 @@ PREWords: PapeRkEyWords https://wasdns.github.io/PREWords/
 **与...对比：**
 
 - in constrast with
+
+**相当于：**
+
+- correspond(ing)
+
+**值得注意的是：**
+
+- It is worth noticing that, ...
 
 ## 实验
 
