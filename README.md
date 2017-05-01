@@ -331,6 +331,8 @@ Website: https://wasdns.github.io/PREWords/
 
 - scenario
 
+- situation
+
 **改变：**
 
 - alteration
@@ -702,6 +704,8 @@ Website: https://wasdns.github.io/PREWords/
 - in a word
 
 - in a nutshell
+
+- For simplicity, ...
 
 **具体来说：**
 
