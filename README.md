@@ -191,6 +191,10 @@ Website: https://wasdns.github.io/PREWords/
 
 - deduce
 
+**低估：**
+
+- underestimate
+
 **超过某一限度：**
 
 - transcend
@@ -583,6 +587,10 @@ Website: https://wasdns.github.io/PREWords/
 
 - adequate
 
+**明显的：**
+
+- evident
+
 ## 副词
 
 **根本地：**
@@ -622,6 +630,10 @@ Website: https://wasdns.github.io/PREWords/
 **由于：**
 
 - be fuelled by
+
+**为此：**
+
+- To this end, ...
 
 **除此之外(还有)：**
 
