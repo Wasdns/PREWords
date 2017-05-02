@@ -109,7 +109,7 @@ Website: https://wasdns.github.io/PREWords/
 
 - handle
 
-- tackle
+- tackle (this issue)
 
 **突出、划重点/重视：**
 
@@ -222,6 +222,14 @@ Website: https://wasdns.github.io/PREWords/
 **探查(报文)：**
 
 - probe (packets/messages)
+
+**模仿、冒充：**
+
+- impersonate
+
+**降低、恶化：**
+
+- degrade
 
 ## 名词：
 
@@ -471,6 +479,10 @@ Website: https://wasdns.github.io/PREWords/
 
 - effectively
 
+**高性能的：**
+
+- performant
+
 **特定的：**
 
 - specific
@@ -577,6 +589,10 @@ Website: https://wasdns.github.io/PREWords/
 
 - sufficient
 
+**不足的：**
+
+- scarce
+
 **创新的：**
 
 - innovative
@@ -668,6 +684,10 @@ Website: https://wasdns.github.io/PREWords/
 - not ... but
 
 - rather than
+
+**特别是：**
+
+- , specially ...
 
 **否则：**
 
