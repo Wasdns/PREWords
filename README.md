@@ -58,6 +58,10 @@ Website: https://wasdns.github.io/PREWords/
 
 - foresee
 
+**假设：**
+
+- posit
+
 **限制：**
 
 - restricts
@@ -73,6 +77,8 @@ Website: https://wasdns.github.io/PREWords/
 - leverage
 
 - motivate(d by)
+
+- stimulate
 
 **加速：**
 
@@ -103,6 +109,12 @@ Website: https://wasdns.github.io/PREWords/
 - fullfill
 
 - impose(强制)
+
+**实现：**
+
+- realize
+
+- attain
 
 **操作：**
 
@@ -179,6 +191,10 @@ Website: https://wasdns.github.io/PREWords/
 - ratify
 
 - approve
+
+**授权：**
+
+- mandated
 
 **卸载：**
 
@@ -302,6 +318,8 @@ Website: https://wasdns.github.io/PREWords/
 
 - method
 
+- methodology
+
 **方案、体系：**
 
 - scheme
@@ -418,7 +436,25 @@ Website: https://wasdns.github.io/PREWords/
 
 - utilization rate
 
+**价值：**
+
+- merit
+
+- value
+
+**仔细观察：**
+
+- scrutiny
+
 ## 形容词：
+
+**轻量级的：**
+
+- ultra-lightweight
+
+**受限的：**
+
+- finite
 
 **形容数目很多：**
 
@@ -435,6 +471,10 @@ Website: https://wasdns.github.io/PREWords/
 **深思熟虑的**
 
 - deliberate
+
+**有远见的：**
+
+- forward-looking
 
 **谨慎的、保守的：**
 
@@ -488,11 +528,19 @@ Website: https://wasdns.github.io/PREWords/
 
 - viable (solution)
 
+**可取的：**
+
+- advisable
+
 **可用的、实际的：**
 
 - practical
 
 - feasible
+
+**可转变用途的：**
+
+- repurposable
 
 **高效的：**
 
@@ -668,6 +716,10 @@ Website: https://wasdns.github.io/PREWords/
 
 - One ... Another ...
 
+**在这点上：**
+
+- In this regard, ...
+
 **但是：**
 
 - However
@@ -724,7 +776,7 @@ Website: https://wasdns.github.io/PREWords/
 
 **否则：**
 
-- otherwise
+- (since) otherwise ...
 
 **作为...妥协：**
 
@@ -739,6 +791,10 @@ Website: https://wasdns.github.io/PREWords/
 - address
 
 - engage in
+
+**关于：**
+
+- with respect to
 
 **包含(于)：**
 
@@ -791,6 +847,10 @@ Website: https://wasdns.github.io/PREWords/
 **下文中：**
 
 - In what follows, ...
+
+**本质上：**
+
+- in essence ... 
 
 ## 实验
 
