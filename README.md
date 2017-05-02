@@ -654,6 +654,10 @@ Website: https://wasdns.github.io/PREWords/
 
 - loosely
 
+**相反地：**
+
+- Conversely, ...
+
 ## 转接词/承接词
 
 **第一点、第二点...：**
