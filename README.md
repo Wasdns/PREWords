@@ -644,6 +644,10 @@ Website: https://wasdns.github.io/PREWords/
 
 - prominent
 
+**sth 是很重要的：**
+
+- sth. is of importance.
+
 **准确的：**
 
 - precise (need) <=> specific (target)
@@ -684,6 +688,10 @@ Website: https://wasdns.github.io/PREWords/
 
 - evident
 
+**容易的：**
+
+- prone
+
 ## 副词
 
 **根本地：**
@@ -719,6 +727,10 @@ Website: https://wasdns.github.io/PREWords/
 **在这点上：**
 
 - In this regard, ...
+
+**尽管：**
+
+- albeit
 
 **但是：**
 
