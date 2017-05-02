@@ -5,6 +5,7 @@
 # PREWords
 
 PREWords: PapeRkEyWords 
+
 Website: https://wasdns.github.io/PREWords/
 
 ## 位置
@@ -101,6 +102,8 @@ Website: https://wasdns.github.io/PREWords/
 
 - fullfill
 
+- impose(强制)
+
 **操作：**
 
 - operate
@@ -156,6 +159,8 @@ Website: https://wasdns.github.io/PREWords/
 - showcase
 
 - illustrate
+
+- elaborate(详细)
 
 **了解：**
 
@@ -231,7 +236,21 @@ Website: https://wasdns.github.io/PREWords/
 
 - degrade
 
+**打上(标签)：**
+
+- append (a label)
+
+**设计：**
+
+- design
+
+- devise
+
 ## 名词：
+
+**发生：**
+
+- occurrence
 
 **阈值、门槛：**
 
@@ -597,6 +616,10 @@ Website: https://wasdns.github.io/PREWords/
 
 - innovative
 
+**反常的：**
+
+- anomalous
+
 **后备的：**
 
 - backup
@@ -652,6 +675,12 @@ Website: https://wasdns.github.io/PREWords/
 **由于：**
 
 - be fuelled by
+
+**因此：**
+
+- , consequently, ...
+
+- (and) hence ...
 
 **为此：**
 
@@ -754,6 +783,10 @@ Website: https://wasdns.github.io/PREWords/
 **值得注意的是：**
 
 - It is worth noticing that, ...
+
+**下文中：**
+
+- In what follows, ...
 
 ## 实验
 
