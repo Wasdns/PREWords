@@ -219,6 +219,10 @@ Website: https://wasdns.github.io/PREWords/
 
 - conclude
 
+**探查(报文)：**
+
+- probe (packets/messages)
+
 ## 名词：
 
 **阈值、门槛：**
