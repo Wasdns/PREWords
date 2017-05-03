@@ -216,6 +216,10 @@ Website: https://wasdns.github.io/PREWords/
 
 - deduce
 
+**起源于：**
+
+- originate (from)
+
 **低估：**
 
 - underestimate
@@ -893,6 +897,10 @@ Website: https://wasdns.github.io/PREWords/
 **本质上：**
 
 - in essence ... 
+
+**理论上：**
+
+- In theory, ...
 
 ## 实验
 
