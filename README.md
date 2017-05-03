@@ -26,6 +26,10 @@ Website: https://wasdns.github.io/PREWords/
 
 - make up for (drawbacks)
 
+**跨越鸿沟/消除差异：**
+
+- close the gap
+
 **填充(用于流表)：**
 
 - populate (flow tables)
@@ -45,6 +49,10 @@ Website: https://wasdns.github.io/PREWords/
 - except
 
 - anticipate
+
+**想象：**
+
+- envision
 
 **规避：**
 
