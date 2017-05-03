@@ -466,6 +466,10 @@ Website: https://wasdns.github.io/PREWords/
 
 - scrutiny
 
+**表达能力：**
+
+- expressivity
+
 ## 形容词：
 
 **概念验证型的：**
