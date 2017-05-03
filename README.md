@@ -22,6 +22,10 @@ Website: https://wasdns.github.io/PREWords/
 
 ## 动词
 
+**弥补(缺点)：**
+
+- make up for (drawbacks)
+
 **填充(用于流表)：**
 
 - populate (flow tables)
@@ -262,6 +266,12 @@ Website: https://wasdns.github.io/PREWords/
 
 - devise
 
+**导致：**
+
+- result in
+
+- incur
+
 ## 名词：
 
 **发生：**
@@ -347,6 +357,12 @@ Website: https://wasdns.github.io/PREWords/
 - shortcomings
 
 - pitfalls
+
+- drawback
+
+**妥协(缺点)：**
+
+- compromises
 
 **模型：**
 
@@ -448,6 +464,10 @@ Website: https://wasdns.github.io/PREWords/
 
 ## 形容词：
 
+**概念验证型的：**
+
+- proof-of-concept
+
 **轻量级的：**
 
 - ultra-lightweight
@@ -501,6 +521,10 @@ Website: https://wasdns.github.io/PREWords/
 **统一的：**
 
 - unified
+
+**独立的：**
+
+- standalone
 
 **不一致的：**
 
@@ -557,6 +581,10 @@ Website: https://wasdns.github.io/PREWords/
 - assigned
 
 - arbitrary
+
+**专用的：**
+
+- dedicated
 
 **务实的：**
 
@@ -655,6 +683,8 @@ Website: https://wasdns.github.io/PREWords/
 **确定的：**
 
 - deterministic
+
+- explicit
 
 **充足的：**
 
