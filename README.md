@@ -186,6 +186,8 @@ Website: https://wasdns.github.io/PREWords/
 
 - elaborate(详细)
 
+- interpret
+
 **了解：**
 
 - gain insight about <=> internal state
@@ -235,6 +237,10 @@ Website: https://wasdns.github.io/PREWords/
 **超过某一限度：**
 
 - transcend
+
+**胜过：**
+
+- prevail over
 
 **涉及、参与：**
 
@@ -387,6 +393,10 @@ Website: https://wasdns.github.io/PREWords/
 - trend
 
 - wave
+
+**兴盛：**
+
+- flourish
 
 **不一致：**
 
@@ -759,6 +769,14 @@ Website: https://wasdns.github.io/PREWords/
 **相反地：**
 
 - Conversely, ...
+
+**仅仅地：**
+
+- exclusively
+
+**非常地(重要)**
+
+- exceedingly (necessary)
 
 ## 转接词/承接词
 
