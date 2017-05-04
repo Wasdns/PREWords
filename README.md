@@ -292,6 +292,10 @@ Website: https://wasdns.github.io/PREWords/
 
 ## 名词：
 
+**插槽：**
+
+- slot
+
 **发生：**
 
 - occurrence
