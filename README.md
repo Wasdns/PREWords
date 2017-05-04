@@ -22,6 +22,12 @@ Website: https://wasdns.github.io/PREWords/
 
 ## 动词
 
+**控制：**
+
+- control
+
+- rein
+
 **弥补(缺点)：**
 
 - make up for (drawbacks)
@@ -54,9 +60,13 @@ Website: https://wasdns.github.io/PREWords/
 
 - envision
 
-**规避：**
+**避免：**
 
 - circumvent
+
+- obviate
+
+- avoid
 
 **调查：**
 
@@ -292,6 +302,12 @@ Website: https://wasdns.github.io/PREWords/
 
 ## 名词：
 
+**开销：**
+
+- cost
+
+- expenditure
+
 **插槽：**
 
 - slot
@@ -494,6 +510,10 @@ Website: https://wasdns.github.io/PREWords/
 
 ## 形容词：
 
+**现成的：**
+
+- off-the-shelf
+
 **概念验证型的：**
 
 - proof-of-concept
@@ -514,6 +534,8 @@ Website: https://wasdns.github.io/PREWords/
 
 - a/the number of 
 
+- myriad
+
 **理论的/从理论上说：**
 
 - theoretical
@@ -521,6 +543,10 @@ Website: https://wasdns.github.io/PREWords/
 **深思熟虑的**
 
 - deliberate
+
+**不明智的：**
+
+- inadvisable
 
 **有远见的：**
 
@@ -628,6 +654,10 @@ Website: https://wasdns.github.io/PREWords/
 
 - perfect
 
+**理想的：**
+
+- ideal
+
 **不同的、多种多样的：**
 
 - different 
@@ -663,6 +693,10 @@ Website: https://wasdns.github.io/PREWords/
 **聪明的：**
 
 - intelligent
+
+**笨拙的：**
+
+- cumbersome
 
 **上述的：**
 
@@ -817,6 +851,8 @@ Website: https://wasdns.github.io/PREWords/
 - , consequently, ...
 
 - (and) hence ...
+
+- contribute to ...
 
 **为此：**
 
