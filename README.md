@@ -302,6 +302,10 @@ Website: https://wasdns.github.io/PREWords/
 
 ## 名词：
 
+**弹性：**
+
+- elasticity
+
 **开销：**
 
 - cost
@@ -625,6 +629,10 @@ Website: https://wasdns.github.io/PREWords/
 **高效的：**
 
 - effectively
+
+**快速反应的/实时的 (弹性)：**
+
+- responsive (elasticity)
 
 **高性能的：**
 
