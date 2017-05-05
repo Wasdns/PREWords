@@ -168,6 +168,8 @@ Website: https://wasdns.github.io/PREWords/
 
 - take (full) advantage of 
 
+- tap
+
 **干扰：**
 
 - interrupt
@@ -546,6 +548,8 @@ Website: https://wasdns.github.io/PREWords/
 
 - myriad
 
+- massive(规模)
+
 **理论的/从理论上说：**
 
 - theoretical
@@ -569,6 +573,10 @@ Website: https://wasdns.github.io/PREWords/
 **激进的：**
 
 - aggressive
+
+**先前的：**
+
+- previous
 
 **前所未有的：**
 
@@ -642,6 +650,10 @@ Website: https://wasdns.github.io/PREWords/
 
 - responsive (elasticity)
 
+**消耗大量时间的：**
+
+- time-consuming
+
 **高性能的：**
 
 - performant
@@ -683,6 +695,8 @@ Website: https://wasdns.github.io/PREWords/
 - heterogeneous
 
 - various
+
+- diversified
 
 **整体的：**
 
@@ -967,6 +981,10 @@ Website: https://wasdns.github.io/PREWords/
 **与...对比：**
 
 - in constrast with
+
+**相反的是：**
+
+- In contrast, ...
 
 **相当于：**
 
