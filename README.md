@@ -308,6 +308,10 @@ Website: https://wasdns.github.io/PREWords/
 
 - incur
 
+**匮乏：**
+
+- absence
+
 ## 名词：
 
 **弹性：**
