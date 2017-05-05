@@ -50,6 +50,12 @@ Website: https://wasdns.github.io/PREWords/
 
 - adapt to
 
+**支持：**
+
+- advocate
+
+- support
+
 **期望：**
 
 - except
@@ -611,6 +617,8 @@ Website: https://wasdns.github.io/PREWords/
 **可行的：**
 
 - viable (solution)
+
+- realistic
 
 **可取的：**
 
