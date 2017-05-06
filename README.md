@@ -74,6 +74,10 @@ Website: https://wasdns.github.io/PREWords/
 
 - avoid
 
+**消除：**
+
+- eliminate
+
 **调查：**
 
 - investigate
@@ -313,6 +317,10 @@ Website: https://wasdns.github.io/PREWords/
 - absence
 
 ## 名词：
+
+**端点：**
+
+- endpoint
 
 **弹性：**
 
@@ -770,6 +778,10 @@ Website: https://wasdns.github.io/PREWords/
 
 - prominent
 
+**首要的：**
+
+- primary
+
 **sth 是很重要的：**
 
 - sth. is of importance.
@@ -1009,6 +1021,10 @@ Website: https://wasdns.github.io/PREWords/
 **理论上：**
 
 - In theory, ...
+
+**深入讨论：**
+
+- investigate further
 
 ## 实验
 
