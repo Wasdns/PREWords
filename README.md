@@ -74,6 +74,10 @@ Website: https://wasdns.github.io/PREWords/
 
 - avoid
 
+**缓解：**
+
+- alleviate
+
 **消除：**
 
 - eliminate
@@ -317,6 +321,14 @@ Website: https://wasdns.github.io/PREWords/
 - absence
 
 ## 名词：
+
+**实例化：**
+
+- instantiation
+
+**网络提供的服务：**
+
+- network service provisioning
 
 **端点：**
 
@@ -688,6 +700,8 @@ Website: https://wasdns.github.io/PREWords/
 
 - dedicated
 
+- proprietary(受限厂商的)
+
 **务实的：**
 
 - pragmatic
@@ -725,6 +739,8 @@ Website: https://wasdns.github.io/PREWords/
 - firmly
 
 - fully
+
+- full-blown (virtualization technology)
 
 **连续的：**
 
@@ -869,6 +885,10 @@ Website: https://wasdns.github.io/PREWords/
 - exceedingly (necessary)
 
 ## 转接词/承接词
+
+**众所周知：**
+
+- It is well known that ...
 
 **第一点、第二点...：**
 
