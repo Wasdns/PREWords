@@ -962,6 +962,10 @@ Website: https://wasdns.github.io/PREWords/
 
 - , specially ...
 
+**近乎/接近：**
+
+- border on
+
 **否则：**
 
 - (since) otherwise ...
