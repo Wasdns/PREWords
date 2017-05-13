@@ -322,6 +322,14 @@ Website: https://wasdns.github.io/PREWords/
 
 ## 名词：
 
+**概念：**
+
+- notion
+
+**交集：**
+
+- symbiosis
+
 **实例化：**
 
 - instantiation
@@ -379,6 +387,10 @@ Website: https://wasdns.github.io/PREWords/
 **要点：**
 
 - take-home message
+
+**突出、显赫的地位：**
+
+- prominence
 
 **结果/后果：**
 
@@ -607,6 +619,10 @@ Website: https://wasdns.github.io/PREWords/
 **先前的：**
 
 - previous
+
+**传统的(传统网络)：**
+
+- conventional
 
 **前所未有的：**
 
