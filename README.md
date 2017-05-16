@@ -320,6 +320,10 @@ Website: https://wasdns.github.io/PREWords/
 
 - absence
 
+**下发流表项：**
+
+- Populates the entries
+
 ## 名词：
 
 **概念：**
