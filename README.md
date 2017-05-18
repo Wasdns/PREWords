@@ -1068,6 +1068,10 @@ Website: https://wasdns.github.io/PREWords/
 
 - in essence ... 
 
+**实际上：**
+
+- de facto
+
 **理论上：**
 
 - In theory, ...
