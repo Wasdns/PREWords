@@ -324,6 +324,10 @@ Website: https://wasdns.github.io/PREWords/
 
 - Populates the entries
 
+**寻求：**
+
+- clamoring for 
+
 ## 名词：
 
 **概念：**
@@ -571,6 +575,12 @@ Website: https://wasdns.github.io/PREWords/
 - development
 
 - movement
+
+**领域：**
+
+- realms
+
+- domain
 
 ## 形容词：
 
@@ -827,6 +837,8 @@ Website: https://wasdns.github.io/PREWords/
 **重要的：**
 
 - prominent
+
+- substantial
 
 **首要的：**
 
