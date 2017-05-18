@@ -330,6 +330,10 @@ Website: https://wasdns.github.io/PREWords/
 
 ## 名词：
 
+**历史长河：**
+
+- in the long course of history
+
 **永恒主题：**
 
 - eternal theme
