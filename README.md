@@ -566,6 +566,12 @@ Website: https://wasdns.github.io/PREWords/
 
 - expressivity
 
+**发展：**
+
+- development
+
+- movement
+
 ## 形容词：
 
 **现成的：**
@@ -682,11 +688,13 @@ Website: https://wasdns.github.io/PREWords/
 
 - advisable
 
-**可用的、实际的：**
+**可用的、实际的、务实的：**
 
 - practical
 
 - feasible
+
+- pragmatic
 
 **可转变用途的：**
 
