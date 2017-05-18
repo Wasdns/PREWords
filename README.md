@@ -1040,6 +1040,10 @@ Website: https://wasdns.github.io/PREWords/
 
 - Thereafter
 
+**在此之际：**
+
+- In the midst of this, ...
+
 **从来：**
 
 - ever
