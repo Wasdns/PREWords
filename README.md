@@ -330,6 +330,10 @@ Website: https://wasdns.github.io/PREWords/
 
 ## 名词：
 
+**永恒主题：**
+
+- eternal theme
+
 **概念：**
 
 - notion
