@@ -66,6 +66,10 @@ Website: https://wasdns.github.io/PREWords/
 
 - envision
 
+**根本解决：**
+
+- eradicate
+
 **避免：**
 
 - circumvent
@@ -73,6 +77,8 @@ Website: https://wasdns.github.io/PREWords/
 - obviate
 
 - avoid
+
+- fend off
 
 **缓解：**
 
@@ -189,6 +195,8 @@ Website: https://wasdns.github.io/PREWords/
 - in the proposal of 
 
 - demonstrate
+
+- propound
 
 **指出：**
 
@@ -330,6 +338,14 @@ Website: https://wasdns.github.io/PREWords/
 
 ## 名词：
 
+**利益相关者：**
+
+- stakeholders
+
+**受欢迎：**
+
+- popularity
+
 **历史长河：**
 
 - in the long course of history
@@ -361,6 +377,10 @@ Website: https://wasdns.github.io/PREWords/
 **弹性：**
 
 - elasticity
+
+**僵化：**
+
+- ossification
 
 **开销：**
 
@@ -461,6 +481,10 @@ Website: https://wasdns.github.io/PREWords/
 - pitfalls
 
 - drawback
+
+**阻碍：**
+
+- impediment
 
 **妥协(缺点)：**
 
@@ -619,6 +643,8 @@ Website: https://wasdns.github.io/PREWords/
 - myriad
 
 - massive(规模)
+
+- multitude
 
 **理论的/从理论上说：**
 
@@ -902,7 +928,21 @@ Website: https://wasdns.github.io/PREWords/
 
 - prone
 
+**急迫的：**
+
+- urgent
+
 ## 副词
+
+**极大程度上：**
+
+- greatly
+
+- played a great extent on ...
+
+**绝妙地：**
+
+- stunningly
 
 **根本地：**
 
