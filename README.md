@@ -22,6 +22,12 @@ Website: https://wasdns.github.io/PREWords/
 
 ## 动词
 
+**代表/象征：**
+
+- represent
+
+- embody
+
 **控制：**
 
 - control
@@ -616,6 +622,14 @@ Website: https://wasdns.github.io/PREWords/
 
 ## 形容词：
 
+**粗粒度的：**
+
+- coarse-grained
+
+**细粒度的：**
+
+- fine-grained
+
 **现成的：**
 
 - off-the-shelf
@@ -993,6 +1007,8 @@ Website: https://wasdns.github.io/PREWords/
 **尽管：**
 
 - albeit
+
+- Still, 
 
 **但是：**
 
