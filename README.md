@@ -344,6 +344,10 @@ Website: https://wasdns.github.io/PREWords/
 
 ## 名词：
 
+**无处不在：**
+
+- ubiquity
+
 **利益相关者：**
 
 - stakeholders
@@ -443,6 +447,10 @@ Website: https://wasdns.github.io/PREWords/
 **使命：**
 
 - mission
+
+**目标：**
+
+- objective
 
 **紧迫：**
 
@@ -735,6 +743,8 @@ Website: https://wasdns.github.io/PREWords/
 **不适合：**
 
 - A be incapable of B
+
+- ill-suited
 
 **可行的：**
 
