@@ -630,6 +630,10 @@ Website: https://wasdns.github.io/PREWords/
 
 ## 形容词：
 
+**偶然的：**
+
+- coincident
+
 **粗粒度的：**
 
 - coarse-grained
