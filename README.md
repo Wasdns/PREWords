@@ -1138,6 +1138,10 @@ Website: https://wasdns.github.io/PREWords/
 
 - Thereafter
 
+**不久之后：**
+
+- soon afterwards
+
 **在此之际：**
 
 - In the midst of this, ...
