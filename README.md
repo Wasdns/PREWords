@@ -22,6 +22,10 @@ Website: https://wasdns.github.io/PREWords/
 
 ## 动词
 
+**寻求：**
+
+- seek
+
 **代表/象征：**
 
 - represent
@@ -622,6 +626,8 @@ Website: https://wasdns.github.io/PREWords/
 
 - movement
 
+- slow the pace of ...(降低...的速度)
+
 **领域：**
 
 - realms
@@ -790,6 +796,8 @@ Website: https://wasdns.github.io/PREWords/
 
 **特定的：**
 
+- dedicated
+
 - specific
 
 - assigned
@@ -878,9 +886,11 @@ Website: https://wasdns.github.io/PREWords/
 
 - effectiveness
 
-**遗留下来又难以更新的：**
+**老的、遗留下来又难以更新的：**
 
 - legacy
+
+- obsolete
 
 **可存取的：**
 
